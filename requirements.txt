@@ -1,0 +1,7 @@
+flask
+pandas
+scikit-learn
+tldextract
+joblib
+chardet
+flask_cors
